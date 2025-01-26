@@ -1,6 +1,7 @@
 # Startups_Data_Visualization
 ALL python jupyter notebook
 
+<lmg src="https://github.com/rpjinu/Startups_Data_Visualization/blob/main/data_visua.png">
 
 # Startup Data Analysis and Visualization
 
